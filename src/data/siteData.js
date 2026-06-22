@@ -36,10 +36,10 @@ export const subteams = [
 ];
 
 export const stats = [
-  ['100+', 'students across engineering and business'],
-  ['2026', 'American Solar Challenge target'],
-  ['SOV', 'single-occupant vehicle class'],
-  ['4', 'core technical and operations divisions'],
+  ['50+', 'Students across engineering and business'],
+  ['2028', 'American Solar Challenge'],
+  ['SOV', 'Single-occupant vehicle class'],
+  ['4', 'Core technical and operations divisions'],
 ];
 
 export const sponsorshipTiers = [

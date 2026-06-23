@@ -13,12 +13,9 @@ export const contacts = [
 ];
 
 export const photos = [
-  '/assets/photos/Group Photo.JPG',
-  '/assets/photos/B AND OA_1.JPG',
-  '/assets/photos/BDD and M.JPG',
-  '/assets/photos/Tinkering.JPG',
-  '/assets/photos/SDIM4375.JPG',
-  '/assets/photos/SDIM4419.JPG',
+  'public/assets/photos/B AND OA_1.jpg',
+  'public/assets/photos/BDD and M.jpg',
+  'public/assets/photos/Group Photo.jpg',
 ];
 
 export const sponsorLogos = [

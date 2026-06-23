@@ -248,23 +248,18 @@ function Outreach() {
 
               <div className="mt-6 grid grid-cols-2 gap-4">
                 <div className="rounded-2xl bg-black/50 p-4 backdrop-blur">
-                  <div className="text-3xl font-black text-gold">500+</div>
+                  <div className="text-3xl font-black text-gold">1000+</div>
                   <div className="text-sm text-white/60">Students Reached</div>
                 </div>
 
                 <div className="rounded-2xl bg-black/50 p-4 backdrop-blur">
-                  <div className="text-3xl font-black text-gold">15+</div>
+                  <div className="text-3xl font-black text-gold">5+</div>
                   <div className="text-sm text-white/60">Community Events</div>
                 </div>
 
                 <div className="rounded-2xl bg-black/50 p-4 backdrop-blur">
-                  <div className="text-3xl font-black text-gold">8+</div>
+                  <div className="text-3xl font-black text-gold">4+</div>
                   <div className="text-sm text-white/60">School Visits</div>
-                </div>
-
-                <div className="rounded-2xl bg-black/50 p-4 backdrop-blur">
-                  <div className="text-3xl font-black text-gold">100+</div>
-                  <div className="text-sm text-white/60">Team Members</div>
                 </div>
               </div>
 

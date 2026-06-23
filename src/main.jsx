@@ -230,7 +230,7 @@ function Outreach() {
         <div className="sticky top-24">
           <div className="relative overflow-hidden rounded-3xl border border-white/10">
             <img
-              src="public/assets/photos/outreach.jpeg"
+              src="/assets/photos/outreach.jpeg"
               alt="Solar Devils Outreach"
               className="h-[850px] w-full object-cover"
             />

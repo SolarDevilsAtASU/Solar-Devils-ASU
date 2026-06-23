@@ -455,8 +455,8 @@ function Footer() {
   return (
     <footer className="border-t border-white/10 px-4 py-10">
       <div className="mx-auto flex max-w-7xl flex-col justify-between gap-4 text-sm text-white/50 md:flex-row">
-        <p>© {new Date().getFullYear()} Solar Devils @ ASU. Built for GitHub, Vercel, and GitHub Pages deployment.</p>
-        <p>Edit assets in public/assets and content in src/data/siteData.js.</p>
+        <p>© {new Date().getFullYear()} Solar Devils @ ASU.</p>
+        <p>Built by Triumvirate Public Relations LLC</p>
       </div>
     </footer>
   );

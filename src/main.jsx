@@ -427,7 +427,7 @@ function Contact() {
             <textarea className="min-h-40 rounded-2xl border border-white/10 bg-black/50 p-4" name="message" placeholder="Message"/>
             <button className="rounded-full bg-gold px-5 py-3 font-black text-black" type="submit">Open email draft</button>
           </form>
-          <p className="mt-4 text-xs text-white/45">Edit this form action in src/main.jsx if you connect Formspree, Netlify Forms, or another backend.</p>
+          <p className="mt-4 text-xs text-white/45"></p>
         </Card>
 
         <div className="grid gap-4">

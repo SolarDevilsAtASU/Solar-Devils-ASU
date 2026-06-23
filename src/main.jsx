@@ -314,7 +314,6 @@ function Internships() {
             <li>High school student</li>
             <li>Parent or guardian approval</li>
             <li>Reliable transportation</li>
-            <li>Safety training compliance</li>
             <li>Professional communication</li>
           </ul>
         </Card>
